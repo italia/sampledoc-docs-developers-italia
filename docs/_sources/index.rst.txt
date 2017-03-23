@@ -1,5 +1,5 @@
-BlankDoc: Docs /Developers Italia
-=================================
+SampleDoc: Docs /Developers Italia
+==================================
 
 Questo è un documento di riferimento per la documentazione di Developers Italia
 
