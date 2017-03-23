@@ -3,13 +3,13 @@
 # -*- UmbRos 2017-03-23 -*-
 
 # -- <begin> PROJECT Variables ------------------------------------------------
-settings_project_name = '/BlankDoc'
+settings_project_name = '/SampleDoc'
 settings_copyright_year = '2017'
 settings_copyright_name = 'AgID - Team Digitale'
 settings_doc_version = '1'
 settings_doc_release = '1.0'
-settings_basename = 'BlankDoc'
-settings_file_name = 'BlankDoc'
+settings_basename = 'SampleDoc'
+settings_file_name = 'SampleDoc'
 # -- <end> PROJECT Variables --------------------------------------------------
 
 

@@ -1,8 +1,9 @@
-Guida pratica a DCAT-AP_IT
-==========================
+SampleDoc: Docs /Developers Italia
+==================================
 
 Modificare i file in *src/* e le impostazioni in *src/conf.py*
-[Info su reStructuredText Primer](http://www.sphinx-doc.org/en/stable/rest.html) 
+[Info su reStructuredText Primer](http://www.sphinx-doc.org/en/stable/rest.html)
+
 
 **Per compilare:**
 
