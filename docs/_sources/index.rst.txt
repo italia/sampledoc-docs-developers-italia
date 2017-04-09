@@ -1,3 +1,5 @@
+.. image:: _images/logo.png
+
 SampleDoc: Docs /Developers Italia
 ==================================
 

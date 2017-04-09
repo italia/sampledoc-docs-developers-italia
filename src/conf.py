@@ -10,6 +10,7 @@ settings_doc_version = '1'
 settings_doc_release = '1.0'
 settings_basename = 'SampleDoc'
 settings_file_name = 'SampleDoc'
+settings_logo = 'logo.png'
 # -- <end> PROJECT Variables --------------------------------------------------
 
 
@@ -128,6 +129,10 @@ latex_documents = [
   ('index', settings_file_name + '.tex', settings_project_name,
    settings_copyright_year + ', ' + settings_copyright_name, 'manual'),
 ]
+
+# The name of an image file (relative to this directory) to place at the top of
+# the title page.
+latex_logo = '_images/' + settings_logo
 
 
 # -- Options for manual page output ---------------------------------------
