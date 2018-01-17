@@ -1,3 +1,5 @@
+# Attenzione: questo repository contiene del codice legacy, non più in uso
+
 SampleDoc: Docs /Developers Italia
 ==================================
 
